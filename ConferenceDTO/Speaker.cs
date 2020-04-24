@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BackEnd.Models
+namespace ConferenceDTO
 {
     public class Speaker
     {
